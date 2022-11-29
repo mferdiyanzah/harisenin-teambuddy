@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  margin: 2rem;
+}
+
+form {
+  font-size: 1.2em;
+}
+
+.input {
+  display: flex;
+  gap: 10px;
+}
+
+select {
+  width: 100%;
+  padding: 5px;
+}
+
+td {
+  padding: 5px 10px;
+}
+
+.btn {
+  margin: 1.2em;
+  text-align: center;
+}
+
+button {
+  padding: 0.5em 1.2em;
+  background: white;
+  cursor: pointer;
+}

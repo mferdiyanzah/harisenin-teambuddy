@@ -1,0 +1,12 @@
+.quizzes {
+  margin: 1em;
+  width: 960px;
+}
+
+input {
+  list-style: none;
+  border: 1px solid wheat;
+  margin: 0.5em;
+  padding: 0.5em;
+  cursor: pointer;
+}
